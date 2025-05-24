@@ -50,7 +50,7 @@ I'm Emmanuel — a full-stack developer passionate about building powerful, AI-d
 - Twitter: [@yourhandle](https://twitter.com/)
 - LinkedIn: [Your LinkedIn](https://linkedin.com/)
 - Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- Email: `you@example.com`
+- Email: `emmanuelabioye67@gmail.com`
 
 ---
 
