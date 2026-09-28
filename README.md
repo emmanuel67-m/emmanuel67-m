@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I'm Emmanuel — a full-stack developer passionate about building powerful, AI-driven web apps.
+I'm ROLLY. — a full-stack developer passionate about building powerful, AI-driven web apps.
 
 - 🔭 Currently building: **AI Feedback Collector Widget**
 - 🧠 Learning: **Advanced AI integrations & SaaS scaling**
